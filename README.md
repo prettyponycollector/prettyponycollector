@@ -11,7 +11,7 @@
 </p>
 
 <h5 align="center"> Since there's someone who was brave enough to collect ugly ponies, I was like " why not giving credit and collect pretty ones? " WELL I DECIDED TO DO IT!</h3>
-<h5 align="center"> I will follow people with pretty skins only, I even will take screenshot of them and put them on strawpage what will be linked in here</h3>
+<h5 align="center"> I will follow people with pretty skins only, I even will take screenshot of some of them and put them on strawpage what will be linked in here</h3>
 <h5 align="center"> Along with an atabook so feel free to suggest YOURSELF or others that you think they're pretty! ( if I don't find you pretty, you still be added!)</h3>
 
 <p align="center">
