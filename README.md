@@ -13,6 +13,7 @@
 <h5 align="center"> Since there's someone who was brave enough to collect ugly ponies, I was like " why not giving credit and collect pretty ones? " WELL I DECIDED TO DO IT!</h3>
 <h5 align="center"> I will follow people with pretty skins only, I even will take screenshot of some of them and put them on strawpage what will be linked in here</h3>
 <h5 align="center"> Along with an atabook so feel free to suggest YOURSELF or others that you think they're pretty! ( if I don't find you pretty, you still be added!)</h3>
+<h5 align="center"> I ALSO WILL TRY TO LINK GITHUB / SOCIALS TO THE PONIES I TOOK SCREENSHOT OF BUT PLEASE BE PATIENT WITH ME AS IT HARD TO FIND SOME AFTERWARDS!</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/cb4fb743128eb5f7aee121e11f110922/803605c7838a7f5d-cd/s640x960/e7f3637daf2d52093b1e6ea2d4ccab6e8f690a0a.pnj" alt="vampstyx's custom image"/>
