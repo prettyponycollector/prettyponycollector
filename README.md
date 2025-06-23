@@ -38,11 +38,6 @@
 
 <h3 align="center"><code style="color : gold"> !! BLOCK ME TO REMOVE FROM YOUR FOLLOWERS !! </code></h3>
 
-<h1 align="center"><code style="color : gold"> !! MY PONY SKIN !! </code></h3>
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/216339787/457602437-8b3c1ed8-9807-4073-b9c5-e250c160c55c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250621%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250621T192925Z&X-Amz-Expires=300&X-Amz-Signature=35dae6f4571e2f6dee3c1a4ca72b2ea0a6436971e124e39ee70cc3cee165fb23&X-Amz-SignedHeaders=host" alt="prettyponycollector's custom image"/>
-</p>
-
 <p align="center">
   <img src="https://64.media.tumblr.com/ba3229eccabb42d33d14826ce2853e81/9b0200cd5f331a24-f6/s640x960/6e4585901fe616b3f0e00bd64fec04031acee98d.pnj" alt="prettyponycollector's custom image"/>
 </p>
