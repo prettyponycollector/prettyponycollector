@@ -38,6 +38,11 @@
 
 <h3 align="center"><code style="color : gold"> !! BLOCK ME TO REMOVE FROM YOUR FOLLOWERS !! </code></h3>
 
+<h1 align="center"><code style="color : gold"> !! SELFIE WITH THE GOATED GOAT ᕙ(  •̀ ᗜ •́  )ᕗ !! </code></h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e783546-b9f6-4dd6-b68a-a5dad1a17c63" alt="prettyponycollector's custom image"/>
+</p>
+
 <p align="center">
   <img src="https://64.media.tumblr.com/ba3229eccabb42d33d14826ce2853e81/9b0200cd5f331a24-f6/s640x960/6e4585901fe616b3f0e00bd64fec04031acee98d.pnj" alt="prettyponycollector's custom image"/>
 </p>
